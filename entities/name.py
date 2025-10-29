@@ -1,4 +1,4 @@
-from field import Field
+from entities.field import Field
 
 
 class Name(Field):

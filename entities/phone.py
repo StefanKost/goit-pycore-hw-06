@@ -1,5 +1,5 @@
 import re
-from field import Field
+from entities.field import Field
 from exceptions.invalid_phone import InvalidPhone
 
 
